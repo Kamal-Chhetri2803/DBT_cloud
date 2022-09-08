@@ -3,4 +3,5 @@
         materialized='table'
     )
 }}
-select * from RAW.KC_ANALYTICS.ORDERS
+select * from 
+RAW.KC_ANALYTICS.ORDERS
